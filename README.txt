@@ -27,4 +27,5 @@ to "Usermanager".
 2.It has been decided to create a separate repository due to potential problems that could 
 occur when logging into the Clever Cloud application during this fourth deliverable, as it 
 manages dates that depend on the time of insertion, and to avoid interfering with the 
-corrections of the project of previous deliverables.
+corrections of the project of previous deliverables. Since a month has passed since the second deliverable,
+it has been decided to replace it with this performance testing project.
