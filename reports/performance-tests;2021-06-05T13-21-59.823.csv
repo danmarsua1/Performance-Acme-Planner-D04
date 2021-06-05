@@ -1,0 +1,4 @@
+timestamp,test-class,test-method,time,description,result
+2021-06-05 13:22:35.982,acme.testing.usermanager.task.ManagerTaskCreateTest,createPositive,9807,"[1] recordIndex=2, executionStart=2021/08/01 14:05, executionEnd=2021/08/02 19:05, workLoad=29, title=Task 09, description=Description 09, link=null",OK
+2021-06-05 13:22:44.452,acme.testing.usermanager.task.ManagerTaskCreateTest,createPositive,8179,"[2] recordIndex=3, executionStart=2021/08/02 18:05, executionEnd=2021/08/05 19:05, workLoad=73, title=Task 10, description=Description 10, link=null",OK
+2021-06-05 13:22:51.269,acme.testing.usermanager.task.ManagerTaskCreateTest,createPositive,6543,"[3] recordIndex=4, executionStart=2021/08/03 19:00, executionEnd=2021/08/04 01:00, workLoad=6, title=Task 11, description=Description 11, link=http://www.no-suspicious-link.com",Cannot find 'By.xpath: //select[@name='list_length']/option[@value='5']'
