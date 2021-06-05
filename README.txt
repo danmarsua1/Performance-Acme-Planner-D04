@@ -12,7 +12,7 @@ Acme-Planner Performance Testing Project. This project helps students to make pe
 tests on the project Acme-Planner in Design & Testing II's subject. 
 
 - GitHub repository: https://github.com/danmarsua1/Performance-Acme-Planner-D04.git
-- GitHub release: ???
+- GitHub release: https://github.com/danmarsua1/Performance-Acme-Planner-D04/releases/tag/v1.0
 
 ## Clever-Cloud credentials (Performance Acme-Planner)
 
